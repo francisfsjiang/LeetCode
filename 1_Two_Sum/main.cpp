@@ -44,5 +44,6 @@ int main() {
     Solution sol;
     auto v = sol.twoSum(a,target);
     cout<<v[0]<<" "<<v[1]<<endl;
+    
 
 }
